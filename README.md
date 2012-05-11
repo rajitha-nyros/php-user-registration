@@ -1,5 +1,5 @@
-README
-=============
+PHP_USER_REGISTRATION
+======================
 
 
   1. INSTALLATION
