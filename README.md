@@ -1,4 +1,4 @@
-PHP_USER_REGISTRATION
+PHP-USER-REGISTRATION
 ======================
 
 
