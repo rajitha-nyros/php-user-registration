@@ -116,6 +116,7 @@ PHP-USER-REGISTRATION
   	help keep it stable. 
   
   
+<img style="max-width:100%;" src="https://github.com/rajitha-nyros/php-user-registration/raw/master/screenshot/signup%20form.JPG" alt="php-user-registration" title="php-user-registration">
 
 
 
